@@ -12,5 +12,5 @@ ChargeBumper	KEYWORD1
 # Methods and Functions (KEYWORD2)
 ###########################################
 
-strike KEYWORD2
+strike	KEYWORD2
 
